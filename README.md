@@ -1,3 +1,62 @@
+/* General page background */
+body {
+  background-color: #f5f5f5; /* Light grey background */
+  color: #333; /* Dark text color */
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+  background-color: #e60000; /* Red header */
+  color: #fff; /* White text */
+  padding: 20px;
+  text-align: center;
+}
+
+/* Navigation bar */
+nav {
+  background-color: #b30000; /* Darker red navigation bar */
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff; /* White links */
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #ff6666; /* Lighter red on hover */
+  border-radius: 5px;
+}
+
+/* Main content */
+main {
+  padding: 20px;
+}
+
+/* Footer */
+footer {
+  background-color: #e60000; /* Matching red footer */
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Buttons */
+button {
+  background-color: #b30000; /* Red button */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #ff6666; /* Lighter red on hover */
+}
 # MIGHTY-WORLD-STORIES
 Learn how the world operates with some organizing and disturbing stories
 <section class="intro">
